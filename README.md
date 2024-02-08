@@ -5,17 +5,17 @@
 ## Contenido
 
 1. **Introducción a JavaScript**
-   - Sintaxis básica
-   - Variables y tipos de datos
-   - Operadores
+   - ~~Sintaxis básica~~
+   - ~~Variables y tipos de datos~~
+   - ~~Operadores~~
 
 2. **Estructuras de Control**
-   - Condicionales (if, else)
+   - ~~Condicionales (if, else)~~
    - Bucles (for, while)
    - Switch
 
 3. **Funciones y Objetos**
-   - Declaración y llamada de funciones
+   - ~~Declaración y llamada de funciones~~
    - Objetos y arrays
    - Métodos y propiedades
 
