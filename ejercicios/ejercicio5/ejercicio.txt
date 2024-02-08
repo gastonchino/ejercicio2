@@ -1,0 +1,1 @@
+Implementar algoritmos que permitan: a) Calcular el perímetro y el área de un rectángulo, dada su base y su altura. b) Calcular el perímetro y el área de un círculo dado su radio. c) Calcular el volumen y el área de una esfera dado su radio. d) Dados los catetos de un triángulo rectángulo, calcular la hipotenusa y el ángulo (expresado en grados). Nota: Utilizar el paquete math.
