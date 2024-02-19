@@ -1,5 +1,6 @@
 // 5. Calcular que el numero ingresado sea  máximo de tres .
 var año = 2024;
+//prueba
 
 if ((año % 4 === 0 && año % 100 !== 0) || (año % 400 === 0)) {
   console.log(año + " es un año bisiesto");
