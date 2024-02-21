@@ -1,0 +1,8 @@
+que es una ruta 
+la ruta raiz   c/
+directorios  dev 
+
+c/dev 
+
+/c/Users/dev
+
