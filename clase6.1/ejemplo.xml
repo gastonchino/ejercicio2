@@ -1,0 +1,13 @@
+
+<persona>
+  <nombre>Juan</nombre>
+  <apellido>Pérez</apellido>
+  <edad>30</edad>
+  <ciudad>Ciudad de México</ciudad>
+  <casado>false</casado>
+  <hobbies>
+    <hobbie>fútbol</hobbie>
+    <hobbie>lectura</hobbie>
+    <hobbie>viajar</hobbie>
+  </hobbies>
+</persona>  

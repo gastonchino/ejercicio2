@@ -1,0 +1,16 @@
+[{
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "edad": 30,
+    "ciudad": "Ciudad de México",
+    "casado": false,
+    "hobbies": ["fútbol", "lectura", "viajar"]
+  },{
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "edad": 30,
+    "ciudad": "Ciudad de México",
+    "casado": false,
+    "hobbies": ["fútbol", "lectura", "viajar"]
+  }
+]
