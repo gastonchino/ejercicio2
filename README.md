@@ -11,13 +11,13 @@
 
 2. **Estructuras de Control**
    - ~~Condicionales (if, else)~~
-   - Bucles (for, while)
-   - Switch
+   - ~~Bucles (for, while)~~
+   - ~~Switch~~
 
 3. **Funciones y Objetos**
    - ~~Declaración y llamada de funciones~~
-   - Objetos y arrays
-   - Métodos y propiedades
+   - ~~Objetos y arrays~~
+   - ~~Métodos y propiedades~~
 
 4. **Programación Asíncrona**
    - Callbacks
