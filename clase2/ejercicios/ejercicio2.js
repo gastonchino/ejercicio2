@@ -6,6 +6,7 @@ por pantalla su tabla de multiplicar (del 1 al 12).
 // tabla_multiplicar.js
 
 // Cargar un número entero en una variable
+
 const numero = 5; // Puedes cambiar este número según tus necesidades
 
 // Imprimir la tabla de multiplicar
